@@ -1,0 +1,2 @@
+This code is for simulate a control using unit vectro approach, this system is in  a example of unit vector in the chapter 3.6.4 in book 
+Sliding Mode Cotrol Theory and Applications by Christopher Edwars
